@@ -49,8 +49,8 @@ Here are a few sample questions addressed through this project:
 ## 📸 Database Schema Snapshot
 
 The ER diagram below represents the table relationships used in this project:
+![image](https://github.com/user-attachments/assets/38e97e42-0061-4109-9782-2bb29470d969)
 
-![Database Schema](./your-image-file-name.png)  
 *ERD visualized via DBeaver*
 
 ---
@@ -70,7 +70,7 @@ This project is designed to:
 
 1. **Clone this repo**  
 ```bash
-git clone https://github.com/your-username/northwind-insights.git
+git clone [https://github.com/your-username/northwind-insights.git](https://github.com/RajuKumar077/Northwind-Insights-Unlocking-Business-Intelligence-with-SQL.git)
 ```
 
 2. **Open the `.sql` files** in DBeaver or your preferred SQL editor
