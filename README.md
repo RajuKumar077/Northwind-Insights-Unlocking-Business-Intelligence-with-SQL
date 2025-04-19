@@ -70,7 +70,7 @@ This project is designed to:
 
 1. **Clone this repo**  
 ```bash
-git clone [https://github.com/your-username/northwind-insights.git](https://github.com/RajuKumar077/Northwind-Insights-Unlocking-Business-Intelligence-with-SQL.git)
+git clone https://github.com/RajuKumar077/Northwind-Insights-Unlocking-Business-Intelligence-with-SQL.git
 ```
 
 2. **Open the `.sql` files** in DBeaver or your preferred SQL editor
@@ -82,22 +82,7 @@ git clone [https://github.com/your-username/northwind-insights.git](https://gith
 
 5. **Open the presentation** to understand the insights and flow of the project
 
----
 
-## 🌟 Highlights
-
-- Clean and **well-documented** SQL scripts
-- Answers to **real-world questions**
-- **Scalable** format for adding more questions in the future
-- **Pro-level GitHub presentation** to impress recruiters and collaborators
-
----
-
-## 🙌 Final Thoughts
-
-This project demonstrates how structured SQL queries can unravel meaningful insights from even classic datasets. Whether you're a business analyst, data enthusiast, or job seeker, this project provides an excellent foundation for SQL and BI practices.
-
----
 
 ## 📬 Let's Connect
 
